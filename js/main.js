@@ -30,6 +30,6 @@ const areaTriangulo = (base,altura,divi) =>{
 areaTriangulo(75,23,2)
 
 for (let line = "#"; line.length < 8; line += "#")
-  console.log(line);
+  console.log(line);  
 
 
